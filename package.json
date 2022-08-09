@@ -1,0 +1,23 @@
+{"type": "module",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "sprint2-dicas",
+  "version": "1.0.0",
+  "description": "Mini projeto 2 Modulo 4",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon ./src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsleneCerqueira/Sprint2-Dicas.git"
+  },
+  "author": "Oslene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OsleneCerqueira/Sprint2-Dicas/issues"
+  },
+  "homepage": "https://github.com/OsleneCerqueira/Sprint2-Dicas#readme"
+}
