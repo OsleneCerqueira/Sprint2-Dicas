@@ -8,7 +8,10 @@ app.use(express.json());
 
 
 
+import { dicas } from './controllers/dicas.js'
 
+
+dicas(app);
 
 
 app.listen(4000, () => {
